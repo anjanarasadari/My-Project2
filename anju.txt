@@ -1,3 +1,0 @@
-serverlets
-applets
-application
